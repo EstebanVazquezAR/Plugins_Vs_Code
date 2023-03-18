@@ -4,15 +4,57 @@
             {
                 "id": "oderwat.indent-rainbow",
                 "version": "8.3.1"
+            },
+            {
+                "id": "formulahendry.auto-close-tag",
+                "version": "0.5.14"
+            },
+            {
+                "id": "formulahendry.auto-rename-tag",
+                "version": "0.1.10"
+            },
+            {
+                "id": "aaron-bond.better-comments",
+                "version": "3.0.2"
+            },
+            {
+                "id": "HansUXdev.bootstrap5-snippets",
+                "version": "1.2.5"
+            },
+            {
+                "id": "dzhavat.bracket-pair-toggler",
+                "version": "0.0.3"
+            },
+            {
+                "id": "hwencc.html-tag-wrapper",
+                "version": "0.2.3"
+            },
+            {
+                "id": "kisstkondoros.vscode-gutter-preview",
+                "version": "0.30.0"
+            },
+            {
+                "id": "",
+                "version": ""
+            },
+            {
+                "id": "Zignd.html-css-class-completion",
+                "version": "1.20.0"
+            },
+            {
+                "id": "PKief.material-icon-theme",
+                "version": "4.25.0"
+            },
+            {
+                "id": "christian-kohler.path-intellisense",
+                "version": "2.8.4"
+            },
+            {
+                "id": "xdebug.php-pack",
+                "version": "1.0.3"
             }
         ]
 }
-
-
-
-
-
-
 
 
 
